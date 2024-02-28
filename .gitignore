@@ -1,0 +1,9 @@
+/db.sqlite3
+/venv/
+/.idea
+.idea
+.DS_Store
+*.pyc
+*.jpg
+*.png
+*.logsendgrid.env
